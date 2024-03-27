@@ -1,2 +1,2 @@
-created this project using HTML , CSS, JS
-link - 
+
+link to view on web -  https://rohitgargrg.github.io/
